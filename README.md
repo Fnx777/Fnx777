@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Fnx777
-- 👀 I’m interested in ...BlockChain
-- 🌱 I’m currently learning ...BlockChain
+- 👀 I’m interested in ...BlockChain Resources
+- 🌱 I’m currently learning ...BlockChain 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
