@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Fnx777
+- 👋 Hi, I’m @Fnx777 @PurpleHaze
 - 👀 I’m interested in ...Decentralized BlockChain Resources
-- 🌱 I’m currently learning ...BlockChain Develop
+- 🌱 I’m currently learning ...Ipfs Protocol
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
