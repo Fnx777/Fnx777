@@ -80,7 +80,7 @@
 <br />
 
 ----
-<div align="center">Generated using <a href="/" target="_blank">Github Profilinator</a></div>
+
 
 
 <!---
