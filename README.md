@@ -1,5 +1,7 @@
-
-### <div align="center">I'm Fnx777, a full-time full-stack freelance developer 👨‍💻 working remotely since 2021 🚀</div>  
+<div align="center">
+<img src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" align="center" style="width: 25%" />
+</div>  
+<div align="center">I'm Fnx777, a full-time full-stack freelance developer 👨‍💻 working remotely since 2021 🚀</div>  
   
 
 - 🔭 I’m currently working on [IPFS]  
