@@ -13,7 +13,7 @@
 - ❓ Ask me about anything related to IPFS Blockchain related technologies  
   
 
-- ⚡ Fun fact: I use tabs over spaces  
+
   
 
 <br/>  
